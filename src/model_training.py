@@ -74,7 +74,7 @@ print("Testing Samples  :", len(X_test))
 # ==========================================================
 
 model = RandomForestRegressor(
-    n_estimators=100,
+    n_estimators=68,
     random_state=42,
     n_jobs=-1
 )
